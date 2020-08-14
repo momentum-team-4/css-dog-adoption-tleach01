@@ -26,7 +26,7 @@ li {
 }
 
 .dogs{
-    display: inline-block;
+    display: inline-flex;
     flex: 1;
     flex-flow: row wrap;
     width: 300px;
@@ -34,6 +34,7 @@ li {
     padding: 10px;
     justify-content: space-between;
     flex-direction: row;
+    ;
 }
 
 img {
